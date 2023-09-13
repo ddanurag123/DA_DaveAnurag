@@ -1,0 +1,11 @@
+DRIVER_ID,DRIVER_NAME,PASS_ID,PASS_NAME,DATE,STATUS,PICK_UP,DROP_OFF,FARE
+234,Deva,2244,Vasudev,"2023-01-01 14:10:00",A,Bopal,Naroda,300
+248,Devendra,2277,Jagannath,"2023-01-01 08:10:00",NA,Raipur,Iskcon,400
+253,Uday,3366,Narsimha,"2023-01-01 12:10:00",NA,Chankheda,Bopal,450
+346,Upendra,2266,"Neel Madhav","2023-01-01 09:20:00",A,Ishanpur,Raipur,200
+432,Anurag,3355,Anant,"2023-01-01 09:10:00",A,Ishanpur,Baroda,2000
+463,Krishna,3355,Narayan,"2023-01-01 13:10:00",NA,Naroda,Bopal,350
+535,Raghav,3377,"Sakshi Gopal","2023-01-01 07:10:00",A,Kalupur,Maninagar,150
+647,Mahendra,2255,Tirupati,"2023-01-01 09:40:00",NA,Maninagar,Kalupur,200
+665,Raghavendra,3388,Subhadra,"2023-01-01 09:20:00",NA,Bhadaj,Kalupur,750
+756,Surendra,2288,Balbhadra,"2023-01-01 19:10:00",A,Iskcon,Bhadaj,300
