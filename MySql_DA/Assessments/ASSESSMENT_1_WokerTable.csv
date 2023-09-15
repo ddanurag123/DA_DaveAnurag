@@ -1,0 +1,10 @@
+WORKER_ID,FIRST_NAME,LAST_NAME,SALARY,JOINING_DATE,DEPARTMENT
+1,Monika,Arora,100000,2014-02-20,HR
+2,Niharika,Verma,80000,2014-01-11,Admin
+3,Vishal,Singhal,300000,2014-02-20,HR
+4,Amitabh,Singh,500000,2014-02-20,Admin
+5,Vivek,Bhati,50000,2014-06-11,Admin
+6,Vipul,Diwan,200000,2014-06-11,Account
+7,Satish,Kumar,75000,2014-06-11,Account
+8,Geetika,Chauhan,90000,2014-06-11,Admin
+9,Vivek,Bhati,50000,2014-06-11,Admin
