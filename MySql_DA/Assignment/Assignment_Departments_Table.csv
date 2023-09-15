@@ -1,0 +1,11 @@
+depart_id,department_name,manager_id,manager_name,manager_salary,manager_hiredate,loc_id
+10,Finance,0,Krishna,100000,2023-01-12,111
+20,Administration,101,Anurag,87000,2023-10-12,555
+30,Marketing,102,Vikita,145000,NULL,222
+40,"Human Resource",103,Khusbu,98000,2020-12-12,222
+50,Finance,104,Devanshi,120000,2021-01-12,333
+60,Sales,105,Anamika,65000,2023-04-02,333
+70,Operations,106,Abhishek,0,2023-02-05,444
+80,IT,107,Madhu,86000,2022-05-02,444
+90,Accounting,108,Radha,95000,2023-01-15,555
+100,Construction,109,Satyam,NULL,NULL,222
