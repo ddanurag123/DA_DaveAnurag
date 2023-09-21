@@ -1,0 +1,9 @@
+Vendor_ID,Vendor_Name,DrugCatogory_Code,Product_Inventory,DrudSell_Code
+111,"Krishna Pharma Ltd.",A1,"Oncology Drugs",X11
+112,"Ram Manu. Ltd.",S1,Surgical,SX1
+113,"Dave Pharma Ltd.",C1,"Seasonal Drugs",XA11
+114,"Goda Pharma Ltd.",V2,Vitamines,XY11
+115,"Ambika Manu. Ltd.",C2,"Seasonal Drugs",XY11
+116,"Torent Pharma",A1,"Oncology Drugs",X11
+117,SunPharma,V1,Vitamines,XZ11
+118,"Topas LIfe Care",C1,"Seasonal Drugs",XA11

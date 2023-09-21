@@ -1,0 +1,11 @@
+Emplyee_Id,Emp_Name,Salary,Bonus,Emp_Add,Emp_State,Manager_Id,Mang_Name,Store_IDD
+1001,Champak,NULL,2000,"XVA Colony",CA,601,Ronald,1
+1002,Daya,NULL,2500,NULL,IN,NULL,NULL,3
+1003,Jethalal,NULL,3000,"PVR Cinema",PK,606,Charan,4
+1004,Anjali,NULL,1500,NULL,CA,609,Karan,2
+1005,Tapendra,NULL,NULL,NULL,FL,611,Karma,1
+1006,Tarak,NULL,2000,"Anand Mahal",CA,613,Keval,5
+1007,Bhide,NULL,2500,NULL,CA,NULL,NULL,6
+1008,Roshan,NULL,NULL,NULL,AP,618,Dharma,5
+1009,Sonu,NULL,5000,"Near Atlanta Tower",CA,NULL,NULL,8
+1010,Hathi,NULL,1500,NULL,AR,631,Jamana,8

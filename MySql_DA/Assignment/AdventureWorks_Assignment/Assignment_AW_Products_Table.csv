@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Description,DrugSubCate_Code,SubCat_Form,Unit_Price,Sales_Price,Drug_Code
+1101,Imatinib,"Film coated tablet 100mg",13,Capsules,2500.00,3200.00,X11
+1102,Anastrazole,"Tablet in 1 mg",14,Tablet,464.00,400.00,X11
+1103,Doxorubicin,"Injection in 10/50 ml",15,Injection,360.00,310.00,X11
+1104,Daunorubicin,"Injection in 20ml",15,Injection,360.00,420.00,X11
+1105,Methotrexate,"Tablet in 5/10 mg",14,Tablet,125.08,175.00,X11
+1106,Forceps,"Metal Grasping instrument",21,Instrument,350.00,480.00,SX1
+1107,Retractor,"retractors to hold wound or to hold an organ or tissue",22,Instrument,350.00,370.00,SX1
+1108,Scalpels,"For incision",23,"Instument for surgery",220.00,329.00,SX1
+1109,Masks,"For Covering Mouths",24,"Body Safety",25.00,24.00,SX1
+1110,Syringe,NULL,25,Incision,50.00,50.00,SX1
+1111,Cetirizine,"Anti allergic pill",14,Tablet,90.00,85.00,XA11
+1112,Loratadine,"Anti Histamine Pills/Tablet form",14,Tablet,15.00,75.00,XY11
+1113,Azelastine,"Anti histamine Nasal Sprey",12,"Nasal Sprey",82.00,155.00,XA11
+1114,Ketotifen,"Antihistamine eyedrops",11,"Eye Drop",80.00,179.00,XA11
+1115,"Fluticasone ","Corticosteroid sprays prevent and relieve stuffiness, sneezing",16,Inhaler,55.00,110.00,XY11
+1116,Betamethasone,"Corticosteroid creams relieve allergic skin",17,"Skin Cream",105.00,105.00,XA11
+1117,Zincovit,NULL,14,Tablet,55.00,155.00,XY11
+1118,"TRUEBASICS MULTIVIT MEN",NULL,13,Capsules,25.00,111.00,XY11
+1119,Pyridoxine,"Vutamine B6 ",15,Injection,155.00,222.00,XY11
+1120,Thyroxin,"For thoiroid",14,Tablet,185.00,245.00,XZ11
