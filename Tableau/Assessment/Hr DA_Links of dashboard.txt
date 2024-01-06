@@ -1,3 +1,0 @@
-Dashboard_1:   https://public.tableau.com/views/HRdataset_AwesomeChocolates/Dash_1_0?:language=en-US&:display_count=n&:origin=viz_share_link
-
-Dashboard_2:   https://public.tableau.com/views/Hrdataanalysisdashboard/Dash_2_0?:language=en-US&:display_count=n&:origin=viz_share_link
