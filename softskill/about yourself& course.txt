@@ -1,0 +1,5 @@
+Hey,
+My name is Anurag Dave,a mechanical engineer from NIT surat & an aspiring data analyst.
+I like to play with the raw datasets ,through extracting it from related sorces,Cleaning it & discovering 
+meaningful insights from it with the help of MySQL , Excel & data visualization tool like 
+Tableau & Power BI.
